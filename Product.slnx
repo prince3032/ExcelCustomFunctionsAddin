@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Product.Business/BusinessLogic.csproj" />
+  <Project Path="Product.ExcelAddin/ExcelIntegration.csproj" />
+  <Project Path="Product.Launcher/AddinLauncher.csproj" />
+</Solution>

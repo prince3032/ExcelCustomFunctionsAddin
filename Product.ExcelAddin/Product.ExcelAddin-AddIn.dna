@@ -1,0 +1,6 @@
+<DnaLibrary RuntimeVersion="v4.0">
+    <Description>
+        Product Excel Add-in: This add-in extends Excel with custom functions for advanced calculations and business logic integration. It leverages .NET Framework 4.8 and Excel-DNA to provide seamless access to backend services, including CalculatorService and other business features. Use this add-in to enhance your Excel workflows with domain-specific functionality.
+    </Description>
+    <ExternalLibrary Path="Product.ExcelAddin.dll" />
+</DnaLibrary>
